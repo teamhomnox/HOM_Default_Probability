@@ -1,4 +1,4 @@
-# HOM — Probability of Default
+# Probability of Default - Altman Z-Score
 
 An interactive web calculator that estimates a company's risk of bankruptcy using the **Altman Z-Score** model (1968) and its private-company variant, the **Z'-Score** (1983).
 
